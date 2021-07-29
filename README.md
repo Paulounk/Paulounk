@@ -1,7 +1,17 @@
-# Olá! Me chamo Paulo.
+# Olá! Me chamo Paulo Lopes.
 
-Estudante em constante desenvolvimento, aficionado por resolver problemas através da tecnologia. Seja bem vinde!
-
+#### Um jovem estudante em constante desenvolvimento, aficionado por resolver problemas através da tecnologia.
+  
+ <br>
+  
+- 📍 Guarulhos - SP
+- 💻 Dev Fullstack
+- 👨‍🎓 Formação em Gestão da TI
+- 📚 Aluno da Generation Brasil
+- 🎸 Amante de música nas horas vagas
+  
+<br>
+  
 <div>
   <a href="https://github.com/Paulounk">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Paulounk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -10,12 +20,12 @@ Estudante em constante desenvolvimento, aficionado por resolver problemas atrav�
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+    <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Paulo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Paulo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Paulo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
  ##
