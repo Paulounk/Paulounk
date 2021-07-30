@@ -1,4 +1,4 @@
-# Olá! Me chamo Paulo Lopes.
+# Olá! Me chamo Paulo Lopes (Ele/Dele).
 
 #### Um jovem estudante em constante desenvolvimento, aficionado por resolver problemas através da tecnologia.
   
