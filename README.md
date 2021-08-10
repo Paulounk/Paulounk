@@ -1,11 +1,8 @@
 # Olá! Me chamo Paulo Lopes (Ele/Dele).
-
-#### Um jovem estudante em constante desenvolvimento, aficionado por resolver problemas através da tecnologia.
   
  <br>
-  
-- 📍 Guarulhos - SP
-- 💻 Dev Fullstack
+ 
+- 💻 Java Developer
 - 👨‍🎓 Formação em Gestão da TI
 - 📚 Aluno da Generation Brasil
 - 🎸 Amante de música nas horas vagas
@@ -14,8 +11,8 @@
   
 <div>
   <a href="https://github.com/Paulounk">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Paulounk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulounk&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Paulounk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulounk&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <h2>Conhecimentos & Interesses</h2>
