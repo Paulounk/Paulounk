@@ -1,13 +1,13 @@
 # Olá! Me chamo Paulo Lopes (Ele/Dele).
   
  <br>
- 
-📍  Guarulhos-SP
-💻 Full Stack Java Developer
-👨‍🎓 Formação em Gestão da TI
-📚 Aluno da Generation Brasil
-🎸 Amante de música nas horas vagas
-  
+
+-  📍 Guarulhos-SP
+- 💻 Full Stack Java Developer
+- 👨‍🎓 Formação em Gestão da TI
+- 📚 Aluno da Generation Brasil
+- 🎸 Amante de música nas horas vagas
+
 <br>
   
 <div>
