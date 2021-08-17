@@ -35,7 +35,7 @@
   <img align="center" alt="Paulo-CSS" height="37" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg">
 </div>
  
-##
+#
  
 <h2>Contatos</h2>
 <div> 
