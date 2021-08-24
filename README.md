@@ -7,7 +7,7 @@
 -  📍 Guarulhos-SP
 - 💻 Full Stack Java Developer Junior
 - 👨‍🎓 Formado em Gestão da Tecnologia da Informação
-- 📚 Aluno da Generation Brasil no Bootcamp: Java Web FullStack 
+- 📚 Aluno da Generation Brasil no Bootcamp: Desenvolvedor Java Web FullStack 
 - 🎸 Amante de música nas horas vagas
 
 <br>
