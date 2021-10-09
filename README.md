@@ -1,13 +1,11 @@
-# Olá! Me chamo Paulo Lopes (Ele/Dele).
-
-<h4>Um jovem estudante em constante desenvolvimento, aficionado por resolver problemas através da tecnologia.<h4>
+# Welcome! My name is Paulo.
 
  <br>
 
--  📍 Guarulhos-SP
-- 💻 FullStack Java Developer Junior
-- 👨‍🎓 Formado em Gestão da Tecnologia da Informação
-- 🎸 Amante de música nas horas vagas
+-  📍 Guarulhos - SP
+- 💻 Full Stack Java Developer Junior
+- 👨‍🎓 Graduated in Information Technology Management
+- 🎸 Music lover in his spare time
 
 <br>
   
@@ -17,7 +15,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulounk&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
-<h2>Conhecimentos & Interesses</h2>
+<h2>Knowledge & Interests</h2>
 <div style="display: inline_block">
   <img align="center" alt="Paulo-Js" height="37" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Paulo-Js" height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
@@ -36,7 +34,7 @@
  
 #
  
-<h2>Contatos</h2>
+<h2>Contacts</h2>
 <div> 
   <a href = "mailto:paulo.job@hotmail.com"><img src="https://img.shields.io/badge/Email-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/paulolopessilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
