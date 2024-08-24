@@ -3,7 +3,7 @@
  <br>
 
 -  📍 Guarulhos - SP
-- 💻 Full Stack Java Developer Junior
+- 💻 Software Engineer 
 - 👨‍🎓 Graduated in Information Technology Management
 - 🎸 Music lover in his spare time
 
